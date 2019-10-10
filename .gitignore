@@ -1,5 +1,7 @@
 # Directories
 build/
+Debug/
+.vs/
 
 # Prerequisites
 *.d
