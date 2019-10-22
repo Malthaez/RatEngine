@@ -1,6 +1,6 @@
 #if !defined(WIN32_MAUSTRAP)
-#include <math.h>
-#include <stdint.h>
+#include <cmath>
+#include <cstdint>
 
 #include "Pi32.h"
 #include "bool32.h"

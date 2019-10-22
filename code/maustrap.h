@@ -1,8 +1,8 @@
 #if !defined(MAUSTRAP_H)
 
 #if DUMB_VS_STUFF
-#include <math.h>
-#include <stdint.h>
+#include <cmath>
+#include <cstdint>
 #endif
 #include "Pi32.h"
 #include "bool32.h"
